@@ -1,0 +1,4 @@
+restaurant
+*.o
+tests/*.out
+.DS_Store
