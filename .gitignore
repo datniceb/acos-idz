@@ -2,3 +2,6 @@ restaurant
 *.o
 tests/*.out
 .DS_Store
+restaurant_cv
+*.log
+*.out
