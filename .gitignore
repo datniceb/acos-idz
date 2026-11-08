@@ -5,3 +5,9 @@ tests/*.out
 restaurant_cv
 *.log
 *.out
+fork_named
+fork_unnamed
+shm_kitchen
+shm_cook
+shm_waiter
+shm_door
