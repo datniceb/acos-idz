@@ -11,3 +11,10 @@ shm_kitchen
 shm_cook
 shm_waiter
 shm_door
+idz4-restaurant/server
+idz4-restaurant/cook
+idz4-restaurant/waiter
+idz4-restaurant/door
+idz4-restaurant/observer
+idz4-restaurant/logs/
+idz4-restaurant/tests/out/
